@@ -1,0 +1,79 @@
+{
+  "name": "John Doe",
+  "contact": {
+    "phone": "+1 2345678901",
+    "email": "johndoe@example.com",
+    "location": "New York, USA",
+    "linkedin": "https://www.linkedin.com/in/john-doe"
+  },
+  "education": [
+    {
+      "institution": "Example University - New York, USA",
+      "degree": "Bachelor’s in Technology, Computer Science",
+      "dates": "September 2020 - May 2024",
+      "relevant_courses": [
+        "Linear Algebra and Calculus",
+        "Software Development",
+        "Web Development",
+        "Machine Learning",
+        "Database Management",
+        "Computer Networks"
+      ]
+    }
+  ],
+  "professional_experience": [
+    {
+      "role": "Software Engineer Intern",
+      "organization": "Tech Innovations Inc.",
+      "location": "New York, USA",
+      "dates": "June 2023 - August 2023",
+      "responsibilities": [
+        "Assisted in developing new features for a cloud-based software platform",
+        "Collaborated with a team of engineers to implement user interface improvements"
+      ]
+    },
+    {
+      "role": "Freelance Web Developer",
+      "organization": "Self-employed",
+      "location": "Remote",
+      "dates": "September 2021 - Present",
+      "responsibilities": [
+        "Developed and maintained websites for various clients using HTML, CSS, and JavaScript",
+        "Improved SEO and user experience for client websites"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "TaskMaster",
+      "description": "A task management app designed to help users organize and prioritize their daily tasks.",
+      "tech_stack": ["React.js", "Node.js", "MongoDB"]
+    },
+    {
+      "name": "FitTrack",
+      "description": "A fitness tracking web app that allows users to log workouts and set fitness goals.",
+      "tech_stack": ["React.js", "Express.js", "MySQL"]
+    }
+  ],
+  "skills": {
+    "programming_languages_and_frameworks": [
+      "Python",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "MySQL",
+      "Git",
+      "Docker",
+      "Django",
+      "Flask"
+    ],
+    "soft_skills": [
+      "Problem Solving",
+      "Communication",
+      "Time Management",
+      "Leadership",
+      "Adaptability"
+    ]
+  }
+}

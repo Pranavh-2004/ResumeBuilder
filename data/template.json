@@ -1,0 +1,48 @@
+{
+  "name": "Full Name",
+  "contact": {
+    "phone": "Contact with country code",
+    "email": "yourname@example.com",
+    "location": "City, State, Country",
+    "linkedin": "linkedin.com/<insert full url>"
+  },
+  "education": [
+    {
+      "institution": "ABC University",
+      "degree": "<Level of education> , <Major> ",
+      "dates": "<Start Month, Year> - <End Month, Year>",
+      "relevant_courses": ["Subject_1", "Subject_2", "Subject_3"]
+    }
+  ],
+  "professional_experience": [
+    {
+      "role": "<Designation>",
+      "organization": "Full name of organization",
+      "location": "City, State, Country",
+      "dates": "<Start Month, Year> - <End Month, Year>",
+      "responsibilities": ["<short one-line description>"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project_X",
+      "description": "<short one-line description>",
+      "tech_stack": ["Language_1", "Framework_1", "Language_2"]
+    }
+  ],
+  "skills": {
+    "programming_languages_and_frameworks": [
+      "Language_a",
+      "Language_b",
+      "<insert as many as required>"
+    ],
+    "soft_skills": [
+      "Collaborative",
+      "Risk Taking",
+      "Agile",
+      "Communication",
+      "Teamwork",
+      "<insert any soft skills here>"
+    ]
+  }
+}
