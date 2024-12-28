@@ -1,5 +1,6 @@
 venv/
 .venv/
+.vscode/
 output/
 *.pyc
 __pycache__/
