@@ -4,4 +4,5 @@ venv/
 output/
 *.pyc
 __pycache__/
-my_data.json
+my_data_1.json
+my_data_2.json
